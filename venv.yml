@@ -1,0 +1,8 @@
+name: 3D
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - selenium
+    - numpy
+    - tqdm
